@@ -1,0 +1,14 @@
+{
+    "name": "jakub-skapski-dev/laravel-sms-driver",
+    "description": "SMS driver switchable from env file",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Jakub Skapski",
+            "email": "jakub.skapski.dev@gmail.com"
+        }
+    ],
+    "require": {
+        "laravel/framework": "^v7.28.0"
+    }
+}
